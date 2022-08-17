@@ -7,7 +7,7 @@ Keeps a history of all changes of a document.
 ## Installation
 
 ```bash
-npm install mongoose-history-plugin
+npm install mongoose-history-plug
 ```
 
 Or add it to your package.json
